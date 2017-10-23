@@ -4,4 +4,4 @@
 - El lugar donde se lleva a cabo la accion  es el a las afueras de una ciudad y despues cuando superamos el primer nivel dentro de ella en las calles, este sería el segundo nivel. Finalmente el ultimo nivel seria en la sala del boss en la ultima planta de una torre de la ciudad.
 
 ## Concept jugador y boss final
-<img src="" />
+<img src="" /https://github.com/creativecore30/FinalGame/blob/master/jugador%20y%20boss%20final.png>
