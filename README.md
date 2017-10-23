@@ -5,3 +5,9 @@
 
 
 
+## Concept jugador y boss final
+![jugador] (URL "jugador")
+
+!
+
+
