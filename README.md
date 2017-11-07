@@ -1,9 +1,9 @@
 # FINAL GAME
 
 ## Overview
+Es un videojuego de estilo arcade/lucha/plataforma. La camara es lateral. Los espacios con los que el jugador no interactua son 2D (planos) y el personaje asi como  los enemigos de cada nivel, el suelo, las plataformas y el boss son modelos 3D.
 
-Soy un estudiante de segundo año del CEV(Barcelona) siempre he jugado videojuegos pero nunca me habia propuesto crear uno, ahora si.
-Soy el unico miembro de este proyecto donde encontraras momentos de combate cuerpo a cuerpo , plataforma.
+
 
 ## Social media
 
