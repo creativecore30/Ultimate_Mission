@@ -1,3 +1,6 @@
+!(https://github.com/creativecore30/FinalGame/blob/master/ConceptArt/Concept_logo_creativecore.png)
+
+
 # FINAL GAME
 
 ## Overview
