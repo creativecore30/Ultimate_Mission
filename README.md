@@ -1,5 +1,4 @@
-!(https://github.com/creativecore30/FinalGame/blob/master/ConceptArt/Concept_logo_creativecore.png "imagen")
-
+![Logo](https://github.com/creativecore30/FinalGame/blob/master/ConceptArt/Concept_logo_creativecore.png "Logo")
 
 # FINAL GAME
 
