@@ -11,4 +11,4 @@ The ultimate weapon is a videogame of the type Run and gun and he has plataform 
  
  E-MAIL davidvaldivia2016cev@gmail.com
 
-[Licence](https://github.com/creativecore30/FinalGame/blob/master/LICENSE "Licence")
+[Lisence](https://github.com/creativecore30/FinalGame/blob/master/LICENSE "Licence")
